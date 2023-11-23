@@ -29,7 +29,8 @@ print("{:.2f}".format(d))
 
 
 ### OUTPUT:
-![image](https://github.com/Ajith1413/DISTANCE-BETWEEN-TWO-POINTS/assets/139842524/7042c000-ec7a-4433-b5da-88a272b9bac1)
+![image](https://github.com/Ajith1413/DISTANCE-BETWEEN-TWO-POINTS/assets/139842524/e948d43b-a1d7-41fa-9c23-74a70499459b)
+
 
 
 
