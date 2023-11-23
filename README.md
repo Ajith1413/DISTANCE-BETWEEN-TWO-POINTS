@@ -8,8 +8,9 @@ Import numpy into the editor.
 ### Step 2:
 Input the co-ordinates to calculate the distance between them.
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](![image](https://github.com/Ajith1413/DISTANCE-BETWEEN-TWO-POINTS/assets/139842524/e8e81036-6520-4b67-aaa4-85d99b96d122)
-)
+Substitute the values in the distance formula![image](https://github.com/Ajith1413/DISTANCE-BETWEEN-TWO-POINTS/assets/139842524/0f7cdc0d-30d1-4fa9-96be-99b86645dd34)
+  
+
 ### Step 4: 
 Print the solution.
 ### Step 5: 
